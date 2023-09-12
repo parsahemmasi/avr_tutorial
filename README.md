@@ -1,4 +1,4 @@
 # avr_tutorial
 AVR Tutorial Files
 
-This repository is made for SBU AVR tutorial students.
+This repository is made for Shahid Beheshti University AVR tutorial students.
